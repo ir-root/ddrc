@@ -9,7 +9,7 @@ The files and instructions for building your own Dynamic Dark Root Chamber for r
 - A disk image file of Raspberry Pi OS with all the necessary configurations made for running the DDrC can be downloaded here: https://drive.boku.ac.at/d/6b6a2837e5644a758b48/
 
 
-# License
+### License
 This project contains a 3D model originally designed by ywabiko from printables.com, licensed under CC BY 4.0.
 [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
